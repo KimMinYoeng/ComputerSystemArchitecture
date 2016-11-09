@@ -1,0 +1,5 @@
+NAME : KimMinYoeng
+USERNAME : KimMinYoeng(kminy2346@naver.com)
+DEPARTMENT : Computer System Engineering
+GRADE : Third
+INFO : Hello Everyone!
