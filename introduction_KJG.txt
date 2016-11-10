@@ -1,0 +1,5 @@
+NAME : KimJiGu
+USERNAME : zmfhtodna(zhffhtodna@naver.com)
+DEPARTMENT : Computer System Engineering
+GRADE : Third
+INFO : Save out Earth!
