@@ -1,5 +1,0 @@
-NAME : Kimseungtae
-USERNAME : seungtaeKim
-DEPARTMENT : Computer System Engineering
-GRADE : Third
-INFO : Nice to meet you!
