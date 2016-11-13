@@ -1,0 +1,5 @@
+NAME : Kimseungtae
+USERNAME : seungtaeKim(kst1056@gmail.com)
+DEPARTMENT : Computer System Engineering
+GRADE : Third
+INFO : Nice meet you!
