@@ -31,6 +31,7 @@
  - 이 프로젝트를 통해서 보다 정확한 위치 파악과 신속한 정보 전달을 통해서 범죄 예방율을 높이는 것이 주 목적이 되겠다.
 
 3. 프로젝트 예상 산출물
+    
     3.1. 구조
     
 	![alt text](https://github.com/KimMinYoeng/ComputerSystemArchitecture/blob/master/system%20architecture.JPG?raw=true "Logo Title Text 1")
