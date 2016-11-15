@@ -1,4 +1,4 @@
-#**2조** markdown, git 협업 실습
+﻿#**2조** markdown, git 협업 실습
 ---
 | Name          | Student Number         | User Name   |
 | ------------- |:----------------------:|------------:|
@@ -47,5 +47,15 @@
 	- 근처에 있는 경비 드론이 반지에서 보내는 신호를 인식한다.
 	- 경비드론이 신호가 발생한 위치로 이동하여 현장의 영상을 실시간으로 경찰측으로 전송한다.
 	- 부가적으로, 사용자는 재범이 정해진 거리 내에 있을 경우 스마트 반지로 위험 신호(진동)를 받을 수 있다. - 전자발찌와 연동
-                                 
-                                       
+
+4. 기존 관련 사례
+    
+    4.1. 님브반지(*NIMB RING*)
+    
+     ![alt text](https://github.com/KimMinYoeng/ComputerSystemArchitecture/blob/master/NIMBRING.PNG?raw=true)
+     > **team NIMB**
+     we are making Nimb to be a cool-looking smart device that would compliment the users' style and help them stay safe and protected on the go.
+     
+    -  웨어러블 스마트 기기인 범죄예방 방지 스마트 반지로 위급시 반지 하단부의 버튼을 3초간 누르면 사용자가 지정해둔 가족이나 지인, 그리고 경찰서와 보안업체에까지 사용자의 SOS메시지가 자동으로 전송된다. 
+   -  만약 실수로 버튼을 3초간 눌렀을 경우 사용자 스마트폰으로도 동시에 20초간 취소할 수 있는 알림이 뜬다.                                  
+               
